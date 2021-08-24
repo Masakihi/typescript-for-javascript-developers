@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Masakihi/typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "ts-node": "^10.2.1",
     "typescript": "^3.7.5"
   }
 }
